@@ -26,10 +26,11 @@
   },
   "homepage": "https://github.com/maxogden/menubar",
   "dependencies": {
-    "electron-positioner": "^3.0.0",
-    "extend": "^2.0.0"
+    "electron": "^3.0.10",
+    "electron-positioner": "^4.1.0",
+    "extend": "^3.0.2"
   },
   "devDependencies": {
-    "standard": "^5.4.1"
+    "standard": "^12.0.1"
   }
 }
